@@ -1,0 +1,34 @@
+{
+   "name": "hub-server",
+   "version": "1.0.0",
+   "description": "A lightweight server for serving contents to the browser.",
+   "main": "main.js",
+   "directories": {
+      "test": "test"
+   },
+   "scripts": {
+      "test": "mocha"
+   },
+   "keywords": [
+      "hub-server",
+      "server",
+      "hub",
+      "serve",
+      "node",
+      "html",
+      "file"
+   ],
+   "author": "Mohamed",
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gitmhd/hub-server.git"
+   },
+   "bugs": {
+      "url": "https://github.com/gitmhd/hub-server/issues"
+   },
+   "homepage": "https://github.com/gitmhd/hub-server#readme",
+   "bin": {
+      "hub-server": "./bin/index.js"
+   }
+}
