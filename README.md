@@ -2,6 +2,18 @@
 
 A lightweight server for serving files to a browser.
 
+## Features
+
+`Hub-Server` is depedencies hassle-free, following are some other features.
+
+-  Lightweight only 3KB (core server).
+-  Easy to install.
+-  Easy to use.
+-  High performance.
+-  Has CLI option.
+-  Speed in resolving requests.
+-  Can serve more than 800 type of files.
+
 ## Installation
 
 You can install `Hub-Server` easily using the following command:
@@ -82,7 +94,7 @@ hub-server port=3000 assets=public
 
 Here you told `Hub-Server` to search for the assets in the public folder.
 
-| Argument | Value                                     |
+| Argument | Value                                                    |
 | -------- | -------------------------------------------------------- |
 | assets   | Accepts a string value that represents a name of folder. |
 

@@ -1,6 +1,6 @@
 const fs = require("fs"),
    path = require("path"),
-   fileURL = path.join(__dirname, "/..", "/utils/mime-types.json"), // I will find better way
+   fileURL = path.join(__dirname, "/..", "/utils/mime-types.json"),
    mimeTypes = JSON.parse(fs.readFileSync(fileURL));
 
 /**
