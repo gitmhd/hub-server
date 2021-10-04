@@ -6,7 +6,7 @@ A lightweight server for serving files to a browser.
 
 `Hub-Server` is depedencies hassle-free, following are some other features.
 
--  Lightweight only 3KB (core server).
+-  Lightweight only 3KB (server).
 -  Easy to install.
 -  Easy to use.
 -  High performance.
